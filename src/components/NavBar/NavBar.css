@@ -1,0 +1,10 @@
+.nav_Container{ 
+    width:80vw;
+    display:flex;
+    background: linear-gradient(-135deg,#c850c0,#4158d0);
+   
+}
+.nav_Cointer_full{
+    background: linear-gradient(-135deg,#c850c0,#4158d0);
+
+}
